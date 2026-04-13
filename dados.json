@@ -1,0 +1,17 @@
+[
+  {
+    "tipo": "Eletronicos",
+    "regiao": "Plano Piloto",
+    "endereco": "Estação de Metrô Central - Eixo Monumental"
+  },
+  {
+    "tipo": "Oleo",
+    "regiao": "Taguatinga",
+    "endereco": "Ponto Verde - Praça do Relógio"
+  },
+  {
+    "tipo": "Pilhas",
+    "regiao": "Lago Sul",
+    "endereco": "Administração Regional do Lago Sul"
+  }
+]
