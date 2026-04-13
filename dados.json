@@ -13,5 +13,65 @@
     "tipo": "Pilhas",
     "regiao": "Lago Sul",
     "endereco": "Administração Regional do Lago Sul"
+  },
+  {
+    "tipo": "Eletronicos",
+    "regiao": "Águas Claras",
+    "endereco": "Parque Ecológico de Águas Claras - Entrada Principal"
+  },
+  {
+    "tipo": "Medicamentos",
+    "regiao": "Guará",
+    "endereco": "UBS 1 Guará - QE 6 Área Especial"
+  },
+  {
+    "tipo": "Pilhas",
+    "regiao": "Plano Piloto",
+    "endereco": "Supermercado - Asa Norte EQN 114/115"
+  },
+  {
+    "tipo": "Oleo",
+    "regiao": "Ceilândia",
+    "endereco": "Feira Central de Ceilândia - Ponto de Coleta"
+  },
+  {
+    "tipo": "Lixo Reciclavel",
+    "regiao": "Sobradinho",
+    "endereco": "Cooperativa de Reciclagem - Quadra 8"
+  },
+  {
+    "tipo": "Eletronicos",
+    "regiao": "Samambaia",
+    "endereco": "Administração Regional de Samambaia"
+  },
+  {
+    "tipo": "Medicamentos",
+    "regiao": "Plano Piloto",
+    "endereco": "Farmácia de Alto Custo - Estação 102 Sul"
+  },
+  {
+    "tipo": "Oleo",
+    "regiao": "Gama",
+    "endereco": "Terminal Rodoviário do Gama - Setor Central"
+  },
+  {
+    "tipo": "Lixo Reciclavel",
+    "regiao": "Sudoeste",
+    "endereco": "Ecoponto Sudoeste - Parque da Cidade (Estacionamento 4)"
+  },
+  {
+    "tipo": "Pilhas",
+    "regiao": "Águas Claras",
+    "endereco": "Shopping Metrópole - Piso Térreo"
+  },
+  {
+    "tipo": "Eletronicos",
+    "regiao": "Taguatinga",
+    "endereco": "Faculdade de Tecnologia - Taguatinga Sul"
+  },
+  {
+    "tipo": "Medicamentos",
+    "regiao": "Lago Sul",
+    "endereco": "Hospital - SHIS QI 15"
   }
 ]
