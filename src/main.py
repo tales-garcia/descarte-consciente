@@ -20,11 +20,11 @@ def buscar_pontos(dados, tipo_material, regiao_busca):
 
 
 def main():
+    dados = carregar_dados()
     print("--- Localizador de Descarte Consciente ---")
     tipo = input("O que você deseja descartar? (ex: Eletronicos, Oleo, Pilhas): ")
     regiao = input("Qual a sua região? (ex: Plano Piloto, Taguatinga, Lago Sul): ")
 
-    dados = carregar_dados()
     pontos = buscar_pontos(dados, tipo, regiao)
 
     if pontos:

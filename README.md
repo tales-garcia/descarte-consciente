@@ -23,7 +23,7 @@ Cidadãos comuns que buscam informações rápidas e práticas sobre locais para
 ## Instruções de Instalação
 
 ```bash
-git clone INSIRA_AQUI_O_LINK_DO_SEU_REPOSITORIO
+git clone http://github.com/tales-garcia/
 cd descarte-consciente
 python -m venv venv_dev
 venv_dev\Scripts\activate
