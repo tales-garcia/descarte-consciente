@@ -1,77 +1,62 @@
 [
   {
     "tipo": "Eletronicos",
-    "regiao": "Plano Piloto",
-    "endereco": "Estação de Metrô Central - Eixo Monumental"
+    "cep": "72130-067"
   },
   {
     "tipo": "Oleo",
-    "regiao": "Taguatinga",
-    "endereco": "Ponto Verde - Praça do Relógio"
+    "cep": "72015-907"
   },
   {
     "tipo": "Pilhas",
-    "regiao": "Lago Sul",
-    "endereco": "Administração Regional do Lago Sul"
+    "cep": "73350-208"
   },
   {
     "tipo": "Eletronicos",
-    "regiao": "Águas Claras",
-    "endereco": "Parque Ecológico de Águas Claras - Entrada Principal"
+    "cep": "72405-931"
   },
   {
     "tipo": "Medicamentos",
-    "regiao": "Guará",
-    "endereco": "UBS 1 Guará - QE 6 Área Especial"
+    "cep": "71050-071"
   },
   {
     "tipo": "Pilhas",
-    "regiao": "Plano Piloto",
-    "endereco": "Supermercado - Asa Norte EQN 114/115"
+    "cep": "73005-503"
   },
   {
     "tipo": "Oleo",
-    "regiao": "Ceilândia",
-    "endereco": "Feira Central de Ceilândia - Ponto de Coleta"
+    "cep": "72265-040"
   },
   {
     "tipo": "Lixo Reciclavel",
-    "regiao": "Sobradinho",
-    "endereco": "Cooperativa de Reciclagem - Quadra 8"
+    "cep": "71020-360"
   },
   {
     "tipo": "Eletronicos",
-    "regiao": "Samambaia",
-    "endereco": "Administração Regional de Samambaia"
+    "cep": "71880-642"
   },
   {
     "tipo": "Medicamentos",
-    "regiao": "Plano Piloto",
-    "endereco": "Farmácia de Alto Custo - Estação 102 Sul"
+    "cep": "71575-430"
   },
   {
     "tipo": "Oleo",
-    "regiao": "Gama",
-    "endereco": "Terminal Rodoviário do Gama - Setor Central"
+    "cep": "73062-206"
   },
   {
     "tipo": "Lixo Reciclavel",
-    "regiao": "Sudoeste",
-    "endereco": "Ecoponto Sudoeste - Parque da Cidade (Estacionamento 4)"
+    "cep": "70878-000"
   },
   {
     "tipo": "Pilhas",
-    "regiao": "Águas Claras",
-    "endereco": "Shopping Metrópole - Piso Térreo"
+    "cep": "72300-647"
   },
   {
     "tipo": "Eletronicos",
-    "regiao": "Taguatinga",
-    "endereco": "Faculdade de Tecnologia - Taguatinga Sul"
+    "cep": "72331-813"
   },
   {
     "tipo": "Medicamentos",
-    "regiao": "Lago Sul",
-    "endereco": "Hospital - SHIS QI 15"
+    "cep": "72225-013"
   }
 ]

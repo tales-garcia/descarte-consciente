@@ -19,6 +19,8 @@ Cidadãos comuns que buscam informações rápidas e práticas sobre locais para
 - pytest
 - flake8
 - GitHub Actions
+- Requests
+- Geopy
 
 ## Instruções de Instalação
 
@@ -42,6 +44,6 @@ python -m pytest
 flake8 src/ tests/
 ```
 ## Versão Atual
-`1.0.0`
+`1.1.0`
 ## Autor
 Tales Pessoa Garcia
