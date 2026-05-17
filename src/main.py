@@ -16,5 +16,6 @@ def main():
     else:
         print("\nNenhum ponto de coleta encontrado para esse material na sua região.")
 
+
 if __name__ == "__main__":
     main()
