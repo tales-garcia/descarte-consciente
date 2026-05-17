@@ -1,5 +1,6 @@
 from services import buscar_pontos, carregar_dados
 
+
 def main():
     dados = carregar_dados()
     print("--- Localizador de Descarte Consciente ---")
@@ -14,8 +15,6 @@ def main():
             print(f"- {p['endereco']}: distância de {p['distancia']}km")
     else:
         print("\nNenhum ponto de coleta encontrado para esse material na sua região.")
-
-
 
 if __name__ == "__main__":
     main()

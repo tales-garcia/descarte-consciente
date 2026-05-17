@@ -1,7 +1,6 @@
 import json
 import os
 from math import radians, sin, cos, sqrt, atan2
-from typing import List, Dict
 import requests
 from geopy.geocoders import Nominatim
 
@@ -14,6 +13,7 @@ def carregar_dados():
     except FileNotFoundError:
         return []
 
+
 def obter_endereco(cep):
     cep = cep.replace("-", "").strip()
 
@@ -25,6 +25,7 @@ def obter_endereco(cep):
 
     endereco = f"{dados['logradouro']}, {dados['localidade']}, {dados['uf']}, Brasil"
     return endereco
+
 
 def obter_coordenadas(endereco):
     geolocator = Nominatim(user_agent="geolocalizacao")
@@ -55,6 +56,7 @@ def distancia_km(lat1, lon1, lat2, lon2):
     c = 2 * atan2(sqrt(a), sqrt(1 - a))
 
     return R * c
+
 
 def buscar_pontos(pontos, cep_usuario, tipo):
     endereco_usuario = obter_endereco(cep_usuario)
@@ -89,4 +91,3 @@ def buscar_pontos(pontos, cep_usuario, tipo):
     resultados.sort(key=lambda x: x["distancia"])
 
     return resultados[:3]
-
